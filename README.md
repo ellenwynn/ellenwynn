@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ellen</h1>
+<h1 align="center">Hi, I'm Ellen 🎏</h1>
 
-- 🔭 I’m currently working on **optimizing my grad project - detecting brain tumors through ML binary image classification**
+- 🧠 I’m currently working on **optimizing my grad project - detecting brain tumors through ML binary image classification**
 
 - 🌱 I’m currently learning **C++, Javascript, and React**
 
 - 🤝 I’m looking for help with **combining my love of bio and chem with machine learning**
 
-- 💬 Ask me about **microbiology, chemistry, and the MedTech industry!**
+- 🧪 Ask me about **microbiology, chemistry, and the MedTech industry!**
 
-- ⚡ Fun fact **in my spare time, I like to crochet and write :)**
+- 🧶 Fun fact **in my spare time, I like to crochet and write :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
